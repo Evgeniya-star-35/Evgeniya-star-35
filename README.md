@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✨ How to find me :  
+✨ How to find me : 
+ 
 📱<a href="tel:+380992353324">+380992353324</a>
 
 ✍<a href="mailto:baje75128@gmail.com">baje75128@gmail.com</a>
