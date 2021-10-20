@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 ✨ How to find me : 
  
-📱<a href="tel:+380992353324">+380992353324</a>
+📱<a href="tel:+380992353324" target="_blank">+380992353324</a>
 
-✍<a href="mailto:baje75128@gmail.com">baje75128@gmail.com</a>
+✍<a href="mailto:baje75128@gmail.com" target="_blank">baje75128@gmail.com</a>
 
-✍<a href="https://www.linkedin.com/in/baydaevgeniya/">https://www.linkedin.com/in/baydaevgeniya/</a>
+✍<a href="https://www.linkedin.com/in/baydaevgeniya/" target="_blank" >https://www.linkedin.com/in/baydaevgeniya/</a>
 
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
