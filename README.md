@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  
 📱<a href="tel:+380992353324" target="_blank">+380992353324</a>
 
-✍<a href="mailto:baje75128@gmail.com" target="_blank">baje75128@gmail.com</a>
+✍<a href="mailto:jannybayda@mail.ru" target="_blank">baje75128@gmail.com</a>
 
 ✍<a href="https://www.linkedin.com/in/baydaevgeniya/" target="_blank" >https://www.linkedin.com/in/baydaevgeniya/</a>
 
