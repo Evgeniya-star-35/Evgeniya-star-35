@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ✨ How to find me : 
  
-📱<a href="tel:+380992353324" target="_blank">+380992353324</a>
+📱<a href="tel:+79900096085" target="_blank">+380992353324</a>
 
 ✍<a href="mailto:jannybayda@mail.ru" target="_blank">baje75128@gmail.com</a>
 
