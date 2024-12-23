@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ✨ How to find me : 
  
-📱<a href="tel:+79900096085" target="_blank">+380992353324</a>
+📱<a href="tel:+79900096085" target="_blank">+79900096085</a>
 
-✍<a href="mailto:jannybayda@mail.ru" target="_blank">baje75128@gmail.com</a>
+✍<a href="mailto:jannybayda@mail.ru" target="_blank">jannybayda@mail.ru</a>
 
 ✍<a href="https://www.linkedin.com/in/baydaevgeniya/" target="_blank" >https://www.linkedin.com/in/baydaevgeniya/</a>
 
